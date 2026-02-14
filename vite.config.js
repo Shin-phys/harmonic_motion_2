@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// GitHub Pages: https://shin-phys.github.io/harmonic_motion/
+// GitHub Pages: https://shin-phys.github.io/harmonic_motion_2/
 export default defineConfig({
   plugins: [react()],
-  base: '/harmonic_motion/',
+  base: '/harmonic_motion_2/',
 })
